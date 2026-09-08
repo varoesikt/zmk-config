@@ -49,7 +49,7 @@
 
         function_layer {
             bindings = <
-&trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &bt BT_CLR  &trans  &kp LA(NUMBER_1)  &kp LA(NUMBER_2)  &kp LA(NUMBER_3)  &kp LA(NUMBER_4)  &rgb_ug RGB_EFF  &kp F11  &kp F12  &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &studio_unlock  &trans  &kp LS(LA(NUMBER_1))  &kp LA(LS(NUMBER_2))  &kp LS(LA(NUMBER_3))  &kp LA(LS(NUMBER_4))  &trans  &trans  &bt BT_NXT  &trans  &trans  &trans  &trans  &sk LEFT_GUI  &kp LEFT_ALT  &trans  &kp BACKSPACE  &trans  &trans
+&trans  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &bt BT_CLR  &trans  &kp LA(NUMBER_1)  &kp LA(NUMBER_2)  &kp LA(NUMBER_3)  &kp LA(NUMBER_4)  &rgb_ug RGB_EFF  &kp F11  &kp F12  &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &studio_unlock  &trans  &kp LS(LA(NUMBER_1))  &kp LA(LS(NUMBER_2))  &kp LS(LA(NUMBER_3))  &kp LA(LS(NUMBER_4))  &trans  &trans  &bt BT_NXT  &trans  &trans  &trans  &trans  &sk LEFT_GUI  &sk LEFT_ALT  &trans  &kp BACKSPACE  &trans  &trans
             >;
         };
 
